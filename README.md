@@ -6,7 +6,7 @@
 
 ## 📑 Índice
 
-- [� OverTheWire-Learnings 🖥️](#-overthewire-learnings-️)
+- [🎮 OverTheWire-Learnings 🖥️](#-overthewire-learnings-️)
   - [📑 Índice](#-índice)
   - [🎯 Objetivos de Aprendizaje](#-objetivos-de-aprendizaje)
   - [🕹️ Wargames Disponibles](#️-wargames-disponibles)
@@ -62,7 +62,7 @@
 
 | Wargame     | Estado        | Nivel actual | Notas                            |
 |-------------|---------------|---------------|----------------------------------|
-| Bandit      | 🟢 En curso   | Nivel 0       | Comenzado hoy (09/05/2025)       |
+| Bandit      | 🟢 En curso   | Nivel 5     | Comenzado hoy (09/05/2025)       |
 | Natas       | ⚪ No iniciado | -             |                                  |
 | Leviathan   | ⚪ No iniciado | -             |                                  |
 | Krypton     | ⚪ No iniciado | -             |                                  |
