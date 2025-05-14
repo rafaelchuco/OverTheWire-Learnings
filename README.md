@@ -62,7 +62,7 @@
 
 | Wargame     | Estado        | Nivel actual | Notas                            |
 |-------------|---------------|---------------|----------------------------------|
-| Bandit      | 🟢 En curso   | Nivel 5     | Comenzado hoy (09/05/2025)       |
+| Bandit      | 🟢 En curso   | Nivel 6     | Comenzado hoy (09/05/2025)       |
 | Natas       | ⚪ No iniciado | -             |                                  |
 | Leviathan   | ⚪ No iniciado | -             |                                  |
 | Krypton     | ⚪ No iniciado | -             |                                  |

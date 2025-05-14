@@ -10,7 +10,7 @@ Este archivo contiene las contraseñas para cada nivel del juego **Bandit** orga
 | 3     | bandit3  | MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx         |
 | 4     | bandit4  | 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ         |
 | 5     | bandit5  | 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw         |
-| 6     | bandit6  | [Contraseña para Bandit6]                |
+| 6     | bandit6  | HWasnPhtq9AVKe0dmk45nxy20cvUa6EG         |
 | 7     | bandit7  | [Contraseña para Bandit7]                |
 | 8     | bandit8  | [Contraseña para Bandit8]                |
 | 9     | bandit9  | [Contraseña para Bandit9]                |
